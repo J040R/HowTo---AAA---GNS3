@@ -1,4 +1,5 @@
 # HowTo---AAA---GNS3
+(VMware 17 PLAYER)
 This simple topology implements authentication RADIUS and DOT1X
 
 In this documentation I will try to explain how to use AAA on routers and switches, in a very simple way.
